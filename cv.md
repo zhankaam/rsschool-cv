@@ -6,6 +6,7 @@
 - Phone: +375 44 744 27 95
 - Email: zhankaam@gmail.com
 - Github: [zhankaam](https://github.com/zhankaam)
+- Linkedin: [Zhanat Lepesbayeva](https://by.linkedin.com/in/zhanat-lepesbayeva-937a06201)
 
 -----------------------------------
 
