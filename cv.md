@@ -18,10 +18,18 @@ I am open-minded and learn new things quickly.I am open to challenges and constr
 - HTML / CSS / SASS
 - JavaScript / TypeScript
 - React / Redux / Redux-toolkit
-- Git / Github
+- Git / Github / Gitlab / Bitbucket
 - VS Code, IntelliJ IDEA (Webstorm / PhpStorm)
+- Material-UI / Ant-design / Tailwind-css
+- Redux-thunk / Redux-saga
+- Next.js
+- Storybook
+- Unit-tests / React-testing-library
 
 ------------------------------------
+
+## Experience:
+***JavaScript Software Engineer - EffectiveSoft***
 
 ## Code example
 
