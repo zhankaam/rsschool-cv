@@ -42,9 +42,7 @@ bonus([30, 27, 8, 14, 7], 34067) -> [2772, 3080, 10395, 5940, 11880]
 ### My Solution:
 
 ```
-bonus = function(arr, s) {
-  return arr.map(a => Math.round(s / arr.reduce((acc,i) => acc + a / i,0)))
-} 
+const bonus = (arr, s) => arr.map(a => Math.round(s / arr.reduce((acc,i) => acc + a / i,0)))
 ``` 
 ------------------------------------
 
