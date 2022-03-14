@@ -6,6 +6,7 @@
 - Phone: +375 44 744 27 95
 - Email: zhankaam@gmail.com
 - Github: [zhankaam](https://github.com/zhankaam)
+
 -----------------------------------
 
 ## About me
@@ -19,6 +20,7 @@ I am open-minded and learn new things quickly.I am open to challenges and constr
 - React / Redux / Redux-toolkit
 - Git / Github
 - VS Code, IntelliJ IDEA (Webstorm / PhpStorm)
+
 ------------------------------------
 
 ## Code example
@@ -44,12 +46,14 @@ bonus([30, 27, 8, 14, 7], 34067) -> [2772, 3080, 10395, 5940, 11880]
 ```
 const bonus = (arr, s) => arr.map(a => Math.round(s / arr.reduce((acc,i) => acc + a / i,0)))
 ``` 
+
 ------------------------------------
 
 ### Courses:
 - [Stepik](https://welcome.stepik.org/ru)
 - [IT-incubator](https://it-incubator.by/React-online.html)
 - [UI-dev](https://ui.dev/c)
+
 ------------------------------------
 
 ## Languages:
