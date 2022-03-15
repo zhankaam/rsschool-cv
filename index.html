@@ -10,18 +10,19 @@
 
   <body>
     <div class="container">
-      <section class="leftSide">
+      <section class="left-side">
         <figure>
           <img
-            src="https://rockcult.ru/wp-content/uploads/2017/01/John_Legend-1-300x300.jpg"
+            src="assets/photo_2021-05-29_23-11-06.png"
             alt="The Pulpit Rock"
             class="avatar"
           />
-          <figcaption />
+          <hr/>
         </figure>
-        <aside>
-          <h2 class="header">Get in touch!</h2>
 
+        <h2 class="header">Get in touch!</h2>
+
+        <aside>
           <ul class="list-container">
             <li class="list">
               <h3 class="sub-title">Telegram:</h3>
@@ -57,7 +58,7 @@
 
           <h2 class="header">Skills</h2>
           <ul class="skill-container">
-            <li class="skill-list">HTML / CSS / SASS</li>
+            <li >HTML / CSS / SASS</li>
             <li class="skill-list">JavaScript</li>
             <li class="skill-list">TypeScript</li>
             <li class="skill-list">React</li>
@@ -74,7 +75,7 @@
           </ul>
         </aside>
       </section>
-      <section class="rightSide">
+      <section class="right-side">
         <h1 class="main-title">Zhanat Lepesbayeva</h1>
         <h4 class="secondary-title">Frontend react developer</h4>
 
@@ -85,10 +86,36 @@
             I am open-minded and learn new things quickly.I am open to
             challenges and constructive feedback.
           </p>
-        <figcaption />
+          <hr />
         </article>
 
-        <h2 class="right-header">Work experience</h2>
+        <article>
+          <h2 class="right-header">Work experience</h2>
+          <h3 class="job-title">Frontend react developer - EffectiveSoft</h3>
+
+          <div>
+            Environment:
+            <p>
+              JavaScript, TypeScript, React, Redux, Redux-toolkit, Axios,
+              Styled-components, Next.js, React-use.
+            </p>
+          </div>
+
+          <h2 class="right-header">Education</h2>
+          <span>Courses:</span>
+          <ul class="skill-container">
+            <li class="skill-list">Stepik</li>
+            <li class="skill-list">IT-Incubator</li>
+            <li class="skill-list">UI-dev</li>
+          </ul>
+        </article>
+
+        <h2 class="right-header">Code Example</h2>
+        <div class="example-wrapper">
+           <p>
+            const bonus = (arr, s) => arr.map(a => Math.round(s / arr.reduce((acc,i) => acc + a / i,0)))
+           </p>
+        </div>
       </section>
     </div>
   </body>

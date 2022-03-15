@@ -21,11 +21,11 @@ ul {
   margin: 0 auto;
 }
 
-.leftSide {
+.left-side {
   background-color: #eff9f9;
 }
 
-.rightSide {
+.right-side {
   margin: 21px;
 }
 
@@ -41,7 +41,7 @@ figure {
   margin-top: 30px;
 }
 
-figcaption {
+hr {
   border-bottom: 2px solid#526474;
   margin: 20px;
 }
@@ -86,6 +86,7 @@ figcaption {
 .main-title {
   font-size: 42px;
   font-weight: normal;
+  margin-top: 20px;
 }
 
 .secondary-title {
@@ -103,4 +104,22 @@ figcaption {
 
 article {
   margin-top: 10px;
+}
+
+.job-title {
+  padding: 10px 0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+div > p {
+  color: #3b424d;
+  padding-bottom: 20px;
+}
+
+.example-wrapper {
+  background-color: #eff9f9;
+  margin-top: 30px;
+  padding: 16px;
+  text-align: center;
 }
